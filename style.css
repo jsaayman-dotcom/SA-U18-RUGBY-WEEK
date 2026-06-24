@@ -143,3 +143,38 @@ footer{
     text-align:center;
     padding:25px;
 }
+.day-section{
+    margin-bottom:60px;
+}
+
+.day-section h3{
+    color:#0B1F3A;
+    margin-bottom:25px;
+    text-align:center;
+}
+
+.match-card{
+    background:white;
+    padding:20px;
+    border-radius:12px;
+    margin-bottom:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+
+.match-card span{
+    color:#D4AF37;
+    font-weight:700;
+}
+
+.match-card h4{
+    margin:8px 0;
+}
+
+.featured{
+    border-left:6px solid #D4AF37;
+}
+
+.tbc{
+    text-align:center;
+    font-size:1.1rem;
+}
